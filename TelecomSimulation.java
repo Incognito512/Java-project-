@@ -259,3 +259,6 @@ public class TelecomSimulation { // Main Class
     }
 }
 
+/* Router R2 queue: [101, 102]
+Billing records: [{router=R2, charge=1.430511474609375E-5, dst=H2, packet_id=101, src=H1, timestamp=1764075945190}, {router=R2, charge=1.9073486328125E-5, dst=H1, packet_id=102, src=H2, timestamp=1764075945190}]
+User session authenticated: true, duration: 0.00s */

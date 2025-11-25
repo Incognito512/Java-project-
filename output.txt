@@ -1,0 +1,5 @@
+PS C:\Users\marko\OneDrive\Desktop\Group 2>  & 'C:\Program Files\Java\jre1.8.0_471\bin\java.exe' '-cp' 'C:\Users\marko\AppData\Roaming\Code\User\workspaceStorage\e11e0d3e75834e0ac6b946e69555838f\redhat.java\jdt_ws\Group 2_fa8b085f\bin' 'TelecomSimulation' 
+Router R2 queue: [101, 102]
+Billing records: [{router=R2, charge=1.430511474609375E-5, dst=H2, packet_id=101, src=H1, timestamp=1764075945190}, {router=R2, charge=1.9073486328125E-5, dst=H1, packet_id=102, src=H2, timestamp=1764075945190}]
+User session authenticated: true, duration: 0.00s
+PS C:\Users\marko\OneDrive\Desktop\Group 2> 
